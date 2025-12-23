@@ -1,1 +1,3 @@
 # ProgramKit_Matlab
+バイメカ分析用プログラム集
+mainファイルをうごかしていく
